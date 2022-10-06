@@ -1,0 +1,12 @@
+body{
+}
+h1{
+    text-align: center;
+}
+#calculator{
+    position: relative;
+    width: 600px;
+    height: 800px;
+    background-color: darkgray;
+    align-items: center;
+}
